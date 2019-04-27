@@ -1,1 +1,1 @@
-![Alt text](uploads/example.png?raw=true)
+![Alt text](public/images/example.png?raw=true)
